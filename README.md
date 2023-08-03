@@ -9,24 +9,21 @@ Para executar este projeto localmente, você precisará ter o Node.js instalado 
 
 1. Clone este repositório para sua máquina:
 
-
+https://github.com/reiskaren0228/react_campinho.git
 
 2. Acesse o diretório do projeto:
 
-cd nome-do-repositorio
-
+cd react_campinho
 
 3. Instale as dependências:
 
 npm install
-
 
 ## Como Usar
 
 1. Inicie o servidor:
 
 npm run start
-
 
 2. O servidor estará rodando em http://localhost:8080 (ou na porta que você especificou).
 
@@ -41,7 +38,7 @@ npm run start
 ## Exemplo de Resposta JSON
 
 ```json
-[  {    "nome": "Aluno",    "curso": {   "nome": "Nome do Curso",      "duracao": "X meses",     "inicio_mês_ano": "2023-01",    "termino": "2023-08",   "instituicao": "Nome da Empresa 1 que Executa o Curso" ,    "instrutor":   "Nome do instrutor",    "progresso":   "X %",    }  }].
+[  {    "nome": "Aluno",    "curso": {   "nome": "Nome do Curso",    "duracao": "X meses",     "inicio_mês_ano": "2023-01",    "termino": "2023-08",   "instituicao": "Nome da Empresa 1 que Executa o Curso" ,    "instrutor":   "Nome do instrutor",    "progresso":   "X %",    }  }].
 
 ````
 
