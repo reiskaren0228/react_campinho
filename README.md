@@ -43,6 +43,7 @@ npm run start
 ```json
 [  {    "nome": "Aluno",    "curso": {   "nome": "Nome do Curso",      "duracao": "X meses",     "inicio_mês_ano": "2023-01",    "termino": "2023-08",   "instituicao": "Nome da Empresa 1 que Executa o Curso" ,    "instrutor":   "Nome do instrutor",    "progresso":   "X %",    }  }].
 
+````
 
 ## Dependências
 
